@@ -1,7 +1,7 @@
 About blinker
 =============
 
-Home: http://pythonhosted.org/blinker/
+Home: https://pythonhosted.org/blinker/
 
 Package license: MIT
 
